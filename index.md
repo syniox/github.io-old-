@@ -4,7 +4,7 @@
 
 * [GDOI2018回忆录](./OI/GDOI2018.md)
 
-##知识点
+## 知识点
 
 * [lucas定理](./OI/lucas.md)
 
