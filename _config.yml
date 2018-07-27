@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+# Latex 支持
+markdown: maruku
